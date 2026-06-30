@@ -14,71 +14,68 @@
 
 ## Laiqon
 
-**Laiqon** es una marca mexicana de software fundada por Christian Gómez Simón, desarrollador Full Stack con 10 años de experiencia construyendo aplicaciones empresariales, herramientas digitales y soluciones a medida.
+**Laiqon** es una marca mexicana de software enfocada en crear productos digitales simples, sólidos y bien construidos.
 
-Creamos software claro, sólido y bien diseñado.  
-Productos minimalistas por fuera, pero cuidadosamente construidos por dentro.
+Nació de una forma clara de entender el desarrollo: hacer software minimalista por fuera, pero cuidadosamente diseñado por dentro. La calidad no termina en la interfaz; también vive en la arquitectura, el código, la base de datos, los flujos, el mantenimiento y cada detalle que sostiene al producto.
 
-La calidad en Laiqon no termina en la interfaz: también vive en la arquitectura, el código, la base de datos, los flujos, los nombres, los detalles y la experiencia completa del producto.
+Construimos herramientas digitales con enfoque en productividad, educación, automatización y soluciones a medida para necesidades reales.
 
-## Qué hacemos
+## Qué construimos
 
-Construimos productos digitales con enfoque en:
+### 🎨 [Laiqon VS Code Theme](https://github.com/Laiqon/vscode-laiqon-theme)
 
-- Desarrollo web y aplicaciones empresariales
-- Herramientas para productividad
-- Software educativo
-- Automatización de procesos
-- Arquitectura de software
-- Experiencias limpias, funcionales y bien pensadas
+Un tema para Visual Studio Code diseñado con una estética limpia, cómoda y profesional.
 
-## Productos
+### 🍅 [Laiqon Pomodoro](https://github.com/Laiqon/vscode-laiqon-pomodoro)
 
-### 🎨 [Laiqon VS Code Theme](https://marketplace.visualstudio.com/items?itemName=Laiqon.laiqon-pomodoro)
-
-Un tema para Visual Studio Code diseñado para trabajar con una estética limpia, cómoda y profesional.
-
-### 🍅 [Laiqon Pomodoro](https://marketplace.visualstudio.com/items?itemName=Laiqon.laiqon-theme)
-
-Una extensión Pomodoro para VS Code, simple y enfocada en productividad.
+Una extensión Pomodoro para VS Code enfocada en productividad, simplicidad y concentración.
 
 ### 📚 MissPao
 
 Producto en desarrollo para apoyar a maestras y maestros del sector SEP en México.
 
-MissPao está diseñado para facilitar la gestión de planeaciones, listas de asistencia, bitácoras y otros documentos esenciales en escuelas primarias.
+MissPao está pensado para facilitar la gestión de planeaciones, listas de asistencia, bitácoras y otros documentos esenciales en escuelas primarias.
 
-## Experiencia detrás de Laiqon
+## Lo que hacemos bien
 
-Laiqon nace de una trayectoria construyendo software real para entornos empresariales y educativos.
+Laiqon combina experiencia técnica, criterio de producto y atención al detalle para construir software claro, funcional y mantenible.
 
-Experiencia relevante:
+Trabajamos con una base sólida en:
 
-- 10 años desarrollando software
-- Desarrollo Full Stack con .NET, Blazor, React y APIs REST
-- Diseño de arquitecturas de software
-- SQL Server, PostgreSQL y MongoDB
-- Azure DevOps, pipelines y despliegues continuos
-- Sistemas escolares, pagos en línea, certificados electrónicos y soluciones internas
-- Experiencia en proyectos para Deloitte y Universidad del Claustro de Sor Juana
+- Desarrollo web y aplicaciones empresariales
+- APIs y sistemas internos
+- Bases de datos
+- Arquitectura de software
+- Automatización de procesos
+- Herramientas para productividad
+- Software educativo
+- Soluciones digitales a medida
+
+La experiencia detrás de Laiqon viene de años construyendo software real para entornos empresariales y educativos: sistemas escolares, pagos en línea, certificados electrónicos, integraciones y plataformas internas.
 
 ## Principios
 
 ### Menos, pero mejor
 
-Preferimos productos claros, útiles y bien ejecutados.
+Construir solo lo necesario, pero hacerlo con claridad, intención y cuidado.
 
 ### Calidad por dentro y por fuera
 
-Un producto debe verse bien, funcionar bien y estar construido sobre una base sólida.
+Un buen producto debe verse bien, funcionar bien y estar construido sobre una base sólida.
 
 ### Detalle con propósito
 
-Cada decisión debe sumar: diseño, código, estructura, experiencia y mantenimiento.
+Cada decisión importa: diseño, código, estructura, experiencia y mantenimiento.
 
-### Trabajo bien hecho
+### Software útil, claro y bien hecho
 
-Laiqon también nace de una convicción personal: hacer las cosas con excelencia, responsabilidad y gratitud.
+No se trata solo de resolver técnicamente un problema, sino de crear algo que realmente ayude, se entienda y pueda crecer con orden.
+
+## Visión
+
+Laiqon busca construir productos digitales con una intención clara: herramientas simples, funcionales y bien hechas para personas que necesitan resolver, crear, administrar o trabajar mejor.
+
+También creemos en una forma de trabajo basada en responsabilidad, gratitud y compromiso.
 
 El símbolo de Laiqon toma inspiración del trigo, una imagen con significado bíblico asociado al fruto, el crecimiento y lo que se cultiva con paciencia.
 
