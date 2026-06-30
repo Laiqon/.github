@@ -1,32 +1,102 @@
-# Laiqon
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Laiqon/.github/main/profile/laiqon-logo-horizontal-light.png" alt="Laiqon" width="460" />
+</p>
 
-**Software, made with intention.**
+<p align="center">
+  <strong>Software mexicano, minimalista y bien hecho.</strong>
+</p>
 
-Laiqon is a software studio for developers who believe quality isn't optional. Every product follows the same standard: thoughtful design, clean systems, and care for every detail — seen and unseen.
-
-## What we build
-
-🎨 **[vscode-laiqon-theme](https://github.com/Laiqon/vscode-laiqon-theme)**
-A six-variant dark theme system — Carbon, Graphite, Sapphire, Amethyst, Ruby — built on one unified color architecture.
-
-🍅 **[vscode-laiqon-pomodoro](https://github.com/Laiqon/vscode-laiqon-pomodoro)**
-A focused, distraction-free Pomodoro timer for VS Code.
-
-## Why Laiqon
-
-- **Detail, not decoration.** Quality is built in, not added on at the end.
-- **Systems, not shortcuts.** Every decision holds up across the whole product, not just the part in front of you.
-- **Less, but better.** Fewer things, done exceptionally well.
-
-## What's next
-
-New products are in the works. Stay tuned.
-
-## Work with us
-
-Open to collaboration, freelance work, and new opportunities.
-[LinkedIn](https://www.linkedin.com/in/cgomezsimon/)
+<p align="center">
+  <a href="https://github.com/Laiqon/vscode-laiqon-theme">VS Code Theme</a>
+  ·
+  <a href="https://github.com/Laiqon/vscode-laiqon-pomodoro">Pomodoro</a>
+  ·
+  <a href="mailto:cgomezsimon@icloud.com">Contacto</a>
+</p>
 
 ---
 
-**Laiqon** · Software, made with intention.
+## Laiqon
+
+**Laiqon** es una marca mexicana de software fundada por Christian Gómez Simón, desarrollador Full Stack con 10 años de experiencia construyendo aplicaciones empresariales, herramientas digitales y soluciones a medida.
+
+Creamos software claro, sólido y bien diseñado.  
+Productos minimalistas por fuera, pero cuidadosamente construidos por dentro.
+
+La calidad en Laiqon no termina en la interfaz: también vive en la arquitectura, el código, la base de datos, los flujos, los nombres, los detalles y la experiencia completa del producto.
+
+## Qué hacemos
+
+Construimos productos digitales con enfoque en:
+
+- Desarrollo web y aplicaciones empresariales
+- Herramientas para productividad
+- Software educativo
+- Automatización de procesos
+- Arquitectura de software
+- Experiencias limpias, funcionales y bien pensadas
+
+## Productos
+
+### 🎨 [Laiqon VS Code Theme](https://github.com/Laiqon/vscode-laiqon-theme)
+
+Un tema para Visual Studio Code diseñado para trabajar con una estética limpia, cómoda y profesional.
+
+### 🍅 [Laiqon Pomodoro](https://github.com/Laiqon/vscode-laiqon-pomodoro)
+
+Una extensión Pomodoro para VS Code, simple y enfocada en productividad.
+
+### 📚 MissPao
+
+Producto en desarrollo para apoyar a maestras y maestros del sector SEP en México.
+
+MissPao está diseñado para facilitar la gestión de planeaciones, listas de asistencia, bitácoras y otros documentos esenciales en escuelas primarias.
+
+## Experiencia detrás de Laiqon
+
+Laiqon nace de una trayectoria construyendo software real para entornos empresariales y educativos.
+
+Experiencia relevante:
+
+- 10 años desarrollando software
+- Desarrollo Full Stack con .NET, Blazor, React y APIs REST
+- Diseño de arquitecturas de software
+- SQL Server, PostgreSQL y MongoDB
+- Azure DevOps, pipelines y despliegues continuos
+- Sistemas escolares, pagos en línea, certificados electrónicos y soluciones internas
+- Experiencia en proyectos para Deloitte y Universidad del Claustro de Sor Juana
+
+## Principios
+
+### Menos, pero mejor
+
+Preferimos productos claros, útiles y bien ejecutados.
+
+### Calidad por dentro y por fuera
+
+Un producto debe verse bien, funcionar bien y estar construido sobre una base sólida.
+
+### Detalle con propósito
+
+Cada decisión debe sumar: diseño, código, estructura, experiencia y mantenimiento.
+
+### Trabajo bien hecho
+
+Laiqon también nace de una convicción personal: hacer las cosas con excelencia, responsabilidad y gratitud.
+
+El símbolo de Laiqon toma inspiración del trigo, una imagen con significado bíblico asociado al fruto, el crecimiento y lo que se cultiva con paciencia.
+
+## Colaboraciones
+
+Laiqon está abierto a colaboraciones, desarrollo freelance y nuevos productos digitales.
+
+Si necesitas construir una herramienta, una aplicación interna, una extensión, un sistema web o una solución a medida, podemos hablar.
+
+📧 [cgomezsimon@icloud.com](mailto:cgomezsimon@icloud.com)
+
+---
+
+<p align="center">
+  <strong>Laiqon</strong><br />
+  Software mexicano, minimalista y bien hecho.
+</p>
