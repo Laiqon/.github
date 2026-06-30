@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Laiqon/vscode-laiqon-theme">VS Code Theme</a>
-  ·
-  <a href="https://github.com/Laiqon/vscode-laiqon-pomodoro">Pomodoro</a>
-  ·
   <a href="mailto:cgomezsimon@icloud.com">Contacto</a>
 </p>
 
@@ -38,11 +34,11 @@ Construimos productos digitales con enfoque en:
 
 ## Productos
 
-### 🎨 [Laiqon VS Code Theme](https://github.com/Laiqon/vscode-laiqon-theme)
+### 🎨 [Laiqon VS Code Theme](https://marketplace.visualstudio.com/items?itemName=Laiqon.laiqon-pomodoro)
 
 Un tema para Visual Studio Code diseñado para trabajar con una estética limpia, cómoda y profesional.
 
-### 🍅 [Laiqon Pomodoro](https://github.com/Laiqon/vscode-laiqon-pomodoro)
+### 🍅 [Laiqon Pomodoro](https://marketplace.visualstudio.com/items?itemName=Laiqon.laiqon-theme)
 
 Una extensión Pomodoro para VS Code, simple y enfocada en productividad.
 
